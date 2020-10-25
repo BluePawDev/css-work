@@ -65,6 +65,10 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 20px
 }
 
-td{
+td {
     font-size: .9em;
+}
+
+a, abbr, address, article, aside, blockquote, body, button, caption, cite, code, dd, del, details, dl, dt, em, figcaption, figure, footer, i, input, ins, label, legend, li, mark, nav, ol, optgroup, option, p, samp, select, small, strong, sub, sup, summary, table, tbody, td, textarea, tfoot, th, thead, time, tr, ul {
+    margin: 0;
 }
